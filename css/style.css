@@ -1,5 +1,6 @@
 :root{
   --main-color-theme: #2196F3;
+  --header-color: #212121;
 }
 
 body {
@@ -118,6 +119,7 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.143;
+  color: var(--header-color);
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -143,7 +145,7 @@ body {
   font-size: 36px;
   line-height: 1.166;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--header-color);
 }
 
 .what-we-do-section-img-list li {
@@ -159,7 +161,7 @@ body {
   font-size: 36px;
   line-height: 1.166;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--header-color);
 }
 
 .team-section-about-list li {
@@ -171,7 +173,7 @@ body {
   font-size: 16px;
   line-height: 1.187;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--header-color);
 }
 
 .team-section-about-list p {
@@ -258,7 +260,7 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color: #212121;
+  color: var(--header-color);
 }
 
 .cards-section-list p {
