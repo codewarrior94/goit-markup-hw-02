@@ -44,7 +44,6 @@ body {
 
 .navigation-list {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.142;
   letter-spacing: 0.02em;
 }
@@ -56,7 +55,6 @@ body {
 
 .navigation-list-link {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.143;
   letter-spacing: 0.02em;
   text-decoration: none;
@@ -76,7 +74,6 @@ body {
 
 .header-contacts-list-link {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.143;
   letter-spacing: 0.02em;
   color: var(--specific-text-color);
@@ -123,7 +120,6 @@ body {
 /* features section */
 .features-list h3 {
   font-weight: 700;
-  font-size: 14px;
   line-height: 1.143;
   color: var(--regular-text-color);
   letter-spacing: 0.03em;
@@ -135,8 +131,6 @@ body {
 }
 
 .features-list p {
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
 }
@@ -161,6 +155,10 @@ body {
 
 
 /* our team section */
+.team-section {
+  background: #F5F4FA;
+}
+
 .team-section h2 {
   font-weight: 700;
   font-size: 36px;
@@ -182,7 +180,6 @@ body {
 }
 
 .team-section-about-list p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.357;
   letter-spacing: 0.03em;
@@ -216,8 +213,6 @@ body {
 
 .footer-contacts-link{
   font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
   color: var(--additional-text-color);
@@ -225,8 +220,6 @@ body {
 }
 
 .footer-tel-mail {
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
@@ -285,7 +278,6 @@ body {
 }
 
 .cards-section-list p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
